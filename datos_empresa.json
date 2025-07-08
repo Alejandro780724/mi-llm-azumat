@@ -1,0 +1,10 @@
+[
+  {
+    "input": "¿Cuál es la política de devoluciones?",
+    "output": "Nuestra política permite devoluciones dentro de los 30 días posteriores a la compra..."
+  },
+  {
+    "input": "¿Cómo contacto al soporte técnico?",
+    "output": "Puedes contactarnos por correo a soporte@empresa.com o al teléfono +57 123 456 7890."
+  }
+]
